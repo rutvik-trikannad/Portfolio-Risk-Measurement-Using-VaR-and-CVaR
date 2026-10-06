@@ -12,7 +12,7 @@ Daily portfolio loss estimates from the training data (May 2019 to December 2023
 |---|---|---|---|---|
 | Historical | -2.15% | -3.41% | -3.60% | -6.17% |
 | Parametric | -2.33% | -2.94% | -3.33% | -3.82% |
-| Monte Carlo | -2.33% | -2.94% | -3.32% | -3.82% |
+| Monte Carlo | -2.33% | -2.95% | -3.33% | -3.83% |
 
 Backtest on the 250 trading days of 2024. A breach is a day when the actual loss was worse than the VaR.
 
